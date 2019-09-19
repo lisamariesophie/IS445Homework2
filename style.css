@@ -15,8 +15,8 @@ body section {
 }
 
 h1,
-h4,
-h5 {
+h2,
+h3 {
   text-align: center;
 }
 
@@ -32,7 +32,7 @@ h1 {
   margin: 0 auto;
 }
 
-h4 {
+h2 {
   margin-top: 25px;
   font-style: italic;
   font-weight: 400;
@@ -40,7 +40,7 @@ h4 {
   margin-bottom: 25px;
 }
 
-h5 {
+h3 {
   font-weight: 400;
   font-size: 20px;
   margin-bottom: 20px;
